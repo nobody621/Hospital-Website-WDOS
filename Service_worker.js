@@ -10,6 +10,12 @@ const URLs_TO_CACHE = [
   '/Hospital-website/css/index.css',
   '/Hospital-website/css/common.css',
   '/Hospital-website/js/index.js',
+  '/Hospital-website/pharmacy.html',
+  '/Hospital-website/checkout.html',
+  '/Hospital-website/js/cart.js',
+  '/Hospital-website/js/checkout.js',
+  '/Hospital-website/json/initial_cart.json',
+  '/Hospital-website/json/medicines.json',
   '/Hospital-website/resourses/logo.jpg'
 ];
 

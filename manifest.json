@@ -1,20 +1,20 @@
 {
-    "name": "KMC",
-    "short_name": "Kodagoda Medical Center",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#0000ff",
-    "icons": [
-      {
-        "src": "favicons/android-chrome-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "favicon/android-chrome-384x384.png",
-        "sizes": "384x384",
-        "type": "image/png"
-      }
-    ]
-  }
+  "name": "Kodagoda Medical Center",
+  "short_name": "KMC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0000ff",
+  "icons": [
+    {
+      "src": "/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ]
+}
